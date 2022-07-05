@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/Ball-Game/Ball-Game/Ball Game/Assets/Scenes/New Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
